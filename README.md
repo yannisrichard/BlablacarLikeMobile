@@ -2,12 +2,11 @@
 2016 Web Transverse project : Ionic
 
 ## Commandes :
-Creer App : ionic start BlablacarMobile sidemenu
-Login : ionic login
-Upload : ionic upload
-Lancer App : ionic serve
-Lancer App Version mobile : ionic serve --lab
-
+	- Creer App : ionic start BlablacarMobile sidemenu
+	- Login : ionic login
+	- Upload : ionic upload
+	- Lancer App : ionic serve
+	- Lancer App Version mobile : ionic serve --lab
 
 ## TodoList :
 	- User authentification
