@@ -15,3 +15,8 @@
 	- Affichage trajet
 	- S'ajouter à un trajet
 	- Gestion des places
+
+https://www.firebase.com/docs/web/libraries/ionic/guide.html
+https://www.firebase.com/docs/web/libraries/ionic/guide.html#section-user-authentication
+https://www.firebase.com/docs/web/libraries/angular/guide/user-auth.html
+

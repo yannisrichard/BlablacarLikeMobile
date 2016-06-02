@@ -1,0 +1,25 @@
+<ion-view view-title="Connexion">
+    <ion-content class="padding">
+		<div class="item item-image">
+			<img src="img/blablacarbanner.png">
+		</div>
+        <div class="list card padding">
+            <label class="item item-input">
+                <span class="input-label">Pseudo</span>
+                <input type="text" ng-model="user.login">
+            </label>
+            <label class="item item-input">
+                <span class="input-label">Password</span>
+                <input type="password" ng-model="user.pwdForLogin">
+            </label>
+            <button ng-click="signIn(user)" class="button button-block button-positive activated">
+                S'inscrire
+            </button>
+        </div>
+        <div class="list" style="text-align:center">
+            <button ng-click="modal.show()" class="button button-small button-outline icon-left ion-person-add button-positive">
+                Créer un nouveau profil
+            </button>
+        </div>
+    </ion-content>
+</ion-view>
